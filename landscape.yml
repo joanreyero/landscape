@@ -2,23 +2,23 @@ landscape:
   - category:
     name: Modeling
     subcategories:
-      - subcategory: 
+      - subcategory:
         name: AI for Science and Engineering
-        items: 
+        items:
           - item:
             name: NeuralOperator
             description: NeuralOperator is a comprehensive library for learning neural operators in PyTorch. It is the official implementation for Fourier Neural Operators and Tensorized Neural Operators.
-            homepage_url: https://neuraloperator.github.io/dev/index.html 
+            homepage_url: https://neuraloperator.github.io/dev/index.html
             logo: neuraloperator.svg
-            repo_url: https://github.com/neuraloperator/neuraloperator 
-            crunchbase: 
+            repo_url: https://github.com/neuraloperator/neuraloperator
+            crunchbase:
           - item:
             name: PINA
             description: PINA is an open-source library designed to simplify and accelerate the development of Scientific Machine Learning solutions.
-            homepage_url: https://github.com/mathLab/PINA 
+            homepage_url: https://github.com/mathLab/PINA
             logo: PINA.svg
-            repo_url: https://github.com/mathLab/PINA 
-            crunchbase: 
+            repo_url: https://github.com/mathLab/PINA
+            crunchbase:
       - subcategory:
         name: Computer Vision
         items:
@@ -41,8 +41,8 @@ landscape:
             description: DeepInverse is a PyTorch-based library for solving imaging inverse problems with deep learning.
             homepage_url: https://deepinv.github.io/
             logo: deepinverse.svg
-            repo_url: https://github.com/deepinv/deepinv 
-            crunchbase: 
+            repo_url: https://github.com/deepinv/deepinv
+            crunchbase:
           - item:
             name: Detectron2
             description: Decectron is a platform for object detection, segmentation and other visual recognition tasks.
@@ -755,17 +755,17 @@ landscape:
           - item:
             name: LMCache
             description: LMCache is an LLM serving engine extension that combines with vLLM or SGLang to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations, including (GPU, CPU DRAM, Local Disk, Databases), LMCache reuses the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces user response delay.
-            homepage_url: https://lmcache.ai/ 
+            homepage_url: https://lmcache.ai/
             logo: LMCache.svg
-            repo_url: https://github.com/LMCache/LMCache  
-            crunchbase: 
+            repo_url: https://github.com/LMCache/LMCache
+            crunchbase:
           - item:
             name: Mooncake
             description: Mooncake is a KVCache-centric Disaggregated Architecture for LLM Serving
             homepage_url: https://kvcache-ai.github.io/Mooncake/
             logo: mooncake.svg
             repo_url: https://github.com/kvcache-ai/Mooncake
-            crunchbase: 
+            crunchbase:
           - item:
             name: SGLang
             description: SGLang is a fast serving framework for large language models and vision language models.
@@ -953,10 +953,10 @@ landscape:
           - item:
             name: Feast
             description: Feast is an open source feature store that delivers structured data to AI and LLM applications at scale for training and inference.
-            homepage_url: https://feast.dev/ 
+            homepage_url: https://feast.dev/
             logo: feast.svg
-            repo_url: https://github.com/feast-dev/feast 
-            crunchbase: 
+            repo_url: https://github.com/feast-dev/feast
+            crunchbase:
           - item:
             name: forte
             description: Forte is a flexible and powerful ML workflow builder.
@@ -978,7 +978,7 @@ landscape:
             homepage_url: https://github.com/run-house/kubetorch
             logo: kubetorch.svg
             repo_url: https://github.com/run-house/kubetorch
-            crunchbase: https://www.crunchbase.com/organization/runhouse 
+            crunchbase: https://www.crunchbase.com/organization/runhouse
           - item:
             name: padl
             description: A pipeline builder for PyTorch.
@@ -1029,7 +1029,7 @@ landscape:
             repo_url: https://github.com/pytorch/pytorch
             crunchbase: https://www.crunchbase.com/organization/pytorch
             extra:
-              accepted: '2022-09-07'
+              accepted: "2022-09-07"
               annotations:
                 slug: ptproject
           - item:
@@ -1043,7 +1043,7 @@ landscape:
             repo_url: https://github.com/deepspeedai/DeepSpeed
             crunchbase: https://www.crunchbase.com/organization/pytorch
             extra:
-              accepted: '2025-04-08'
+              accepted: "2025-04-08"
               annotations:
                 slug: deepspeed
           - item:
@@ -1055,9 +1055,9 @@ landscape:
             homepage_url: https://github.com/ray-project/ray
             logo: Ray-updated.png
             repo_url: https://github.com/ray-project/ray
-            crunchbase: 
+            crunchbase:
             extra:
-              accepted: '2025-09-01'
+              accepted: "2025-09-01"
               annotations:
                 slug: Ray
           - item:
@@ -1071,7 +1071,7 @@ landscape:
             repo_url: https://github.com/vllm-project/vllm
             crunchbase: https://www.crunchbase.com/organization/pytorch
             extra:
-              accepted: '2025-04-08'
+              accepted: "2025-04-08"
               annotations:
                 slug: vllm
   - category:
@@ -1125,15 +1125,6 @@ landscape:
             twitter: https://twitter.com/Huawei
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
-          - item:
-            name: Intel Corporation (member)
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
-            crunchbase: https://www.crunchbase.com/organization/intel
-            twitter: https://twitter.com/intel
-            extra:
-              linkedin_url: https://www.linkedin.com/company/intel-corporation
           - item:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
@@ -1191,7 +1182,7 @@ landscape:
         name: Gold
         items:
           - item:
-            name:  Dell Technologies (member)
+            name: Dell Technologies (member)
             homepage_url: https://www.dell.com/en-us
             logo: dell-stacked.svg
             description: Dell Technologies is an American multinational technology company that provides personal computers, servers, monitors, computer software, computer security and network security, as well as information security services. Dell Technologies has a robust ecosystem of component and assembly partners and also relies heavily on channel partners to fulfilits sales.
@@ -1261,7 +1252,7 @@ landscape:
             homepage_url: https://www.nota.ai/
             logo: nota-ai.svg
             description: Hardware-aware AI optimization and edge AI solutions.
-            crunchbase: 
+            crunchbase:
             linkedin: https://www.linkedin.com/company/notaai/
             extra:
               linkedin_url: https://www.linkedin.com/company/notaai/
@@ -1270,7 +1261,7 @@ landscape:
             homepage_url: https://www.nipa.kr/
             logo: nipa.svg
             description: NIPA improves the technical competitiveness of small-to-medium-sized businesses.
-            crunchbase: 
+            crunchbase:
             linkedin: https://www.linkedin.com/company/national-it-industry-promotion-agency/
             extra:
               linkedin_url: https://www.linkedin.com/company/national-it-industry-promotion-agency/
@@ -1289,7 +1280,7 @@ landscape:
             name: Carnegie Mellon University (member)
             homepage_url: https://cmu.edu/
             logo: carnegie_mellon_university.svg
-            description: 'Carnegie Mellon University is a private research university in Pittsburgh, Pennsylvania. Carnegie Mellon has seven colleges and independent schools: the Carnegie Institute of Technology (engineering), College of Fine Arts, Dietrich College of Humanities and Social Sciences, Mellon College of Science, Tepper School of Business, H. John Heinz III College and the School of Computer Science. The College is recognized for its world-class arts and technology programs, collaboration across disciplines and innovative leadership in education.'
+            description: "Carnegie Mellon University is a private research university in Pittsburgh, Pennsylvania. Carnegie Mellon has seven colleges and independent schools: the Carnegie Institute of Technology (engineering), College of Fine Arts, Dietrich College of Humanities and Social Sciences, Mellon College of Science, Tepper School of Business, H. John Heinz III College and the School of Computer Science. The College is recognized for its world-class arts and technology programs, collaboration across disciplines and innovative leadership in education."
             crunchbase: https://www.crunchbase.com/organization/carnegie-mellon-university
             twitter: https://twitter.com/CarnegieMellon
             extra:
