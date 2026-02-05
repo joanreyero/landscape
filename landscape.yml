@@ -1081,6 +1081,11 @@ landscape:
         name: Platinum
         items:
           - item:
+            name: Acme Corp
+            homepage_url: https://acme.example.com
+            logo: https://acme.example.com/logo.svg
+            crunchbase: https://www.crunchbase.com/organization/acme-corp
+          - item:
             name: Advanced Micro Devices (AMD) (member)
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
