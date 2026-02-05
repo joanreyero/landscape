@@ -1119,6 +1119,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
+            name: Intel Corporation (member)
+            homepage_url: https://www.intel.com/
+            logo: intel-corporation.svg
+            description: Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California. Intel is one of the world's largest semiconductor chip manufacturers by revenue and is a leader in the development of microprocessors, chipsets, and other semiconductor technologies for computing and communications applications.
+            crunchbase: https://www.crunchbase.com/organization/intel
+            twitter: https://twitter.com/intel
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
+          - item:
             name: Lightning AI (member)
             homepage_url: https://lightning.ai/
             logo: lightning_ai.svg
