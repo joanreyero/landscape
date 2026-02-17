@@ -1119,6 +1119,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
+            name: Intel Corporation (member)
+            homepage_url: https://www.intel.com
+            logo: hosted_logos/intel-corporation.svg
+            description: Intel Corporation is a global leader in semiconductor manufacturing and computing innovation. Founded in 1968, Intel designs and manufactures advanced integrated digital technology platforms, including microprocessors, chipsets, and other semiconductor components. The company powers cloud computing, artificial intelligence, and edge computing solutions, serving industries worldwide with cutting-edge processors and accelerators.
+            crunchbase: https://www.crunchbase.com/organization/intel
+            twitter: https://twitter.com/intel
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
+          - item:
             name: Lightning AI (member)
             homepage_url: https://lightning.ai/
             logo: lightning_ai.svg
