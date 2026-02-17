@@ -1105,6 +1105,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
           - item:
+            name: Intel Corporation (member)
+            homepage_url: https://www.intel.com
+            logo: hosted_logos/intel-corporation.svg
+            description: Leading technology company and semiconductor chip manufacturer
+            crunchbase: https://www.crunchbase.com/organization/intel
+            twitter: https://twitter.com/intel
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
+          - item:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
