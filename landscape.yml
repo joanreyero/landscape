@@ -1190,15 +1190,6 @@ landscape:
         name: Silver
         items:
           - item:
-            name: Graphcore (member)
-            homepage_url: https://graphcore.ai/
-            logo: graphcore.svg
-            description: Graphcore is a semiconductor company that develops accelerators for AI and machine learning.
-            crunchbase: https://www.crunchbase.com/organization/graphcore
-            twitter: https://twitter.com/graphcoreai
-            extra:
-              linkedin_url: https://www.linkedin.com/company/graphcore
-          - item:
             name: Rebellions (member)
             homepage_url: https://rebellions.ai/
             logo: rebellions.svg
